@@ -1,0 +1,10 @@
+{
+  "registry-mirrors" : [
+	"https://dockerhub.azk8s.cn",
+	"https://docker.mirrors.ustc.edu.cn",
+	"https://hub-mirror.c.163.com",
+    "https://registry.docker-cn.com"
+  ],
+  "log-driver":"json-file",
+  "log-opts": {"max-size":"200m", "max-file":"3"}
+}
