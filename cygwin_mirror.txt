@@ -1,0 +1,3 @@
+
+https://mirrors.163.com/cygwin/
+https://mirrors.aliyun.com/cygwin/
