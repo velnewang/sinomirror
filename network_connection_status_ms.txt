@@ -1,0 +1,11 @@
+
+# https://docs.microsoft.com/en-US/troubleshoot/windows-client/networking/internet-explorer-edge-open-connect-corporate-public-network#ncsi-active-probes-and-the-network-status-alert
+
+Windows 10.0.15063 (1703) 至 10.0.07134 (1803)
+http://www.msftconnecttest.com/redirect
+
+Windows 10.0.14393 (1607)
+http://www.msftconnecttest.com/connecttest.txt
+
+Windows 8/8.1 至 10.0.15063 (1511)
+http://www.msftncsi.com/ncsi.txt

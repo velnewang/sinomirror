@@ -1,0 +1,12 @@
+
+# debian sources.list of stretch mirror: http://mirrors.tuna.tsinghua.edu.cn/debian/
+
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ stretch main non-free contrib
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-updates main non-free contrib
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-backports main non-free contrib
+deb http://mirrors.tuna.tsinghua.edu.cn/debian-security/ stretch/updates main non-free contrib
+
+deb-src http://mirrors.tuna.tsinghua.edu.cn/debian/ stretch main non-free contrib
+deb-src http://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-updates main non-free contrib
+deb-src http://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-backports main non-free contrib
+deb-src http://mirrors.tuna.tsinghua.edu.cn/debian-security/ stretch/updates main non-free contrib
